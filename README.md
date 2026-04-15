@@ -26,9 +26,9 @@ python main.py
 
 ## Input format:
 
-C <food> <cost>
-G <group size>
-I <inputs> -1
-O <outputs> -1
+- `C <food> <cost>` → Defines the cost of a food item  
+- `G <group size>` → Specifies the group size  
+- `I <inputs> -1` → Lists input items (ends with `-1`)  
+- `O <outputs> -1` → Lists output items (ends with `-1`)  
 
-A <id> <input1> <input2> <output> <food>
+A `<id> <input1> <input2> <output> <food>`
