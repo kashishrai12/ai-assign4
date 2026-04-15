@@ -17,3 +17,18 @@
 
 ```bash
 python main.py
+```
+## Dependencies:
+
+1. networkx
+2. numpy
+3. matplotlib
+
+## Input format:
+
+C <food> <cost>
+G <group size>
+I <inputs> -1
+O <outputs> -1
+
+A <id> <input1> <input2> <output> <food>
